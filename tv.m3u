@@ -1,11 +1,21 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ.png" is-favorite="1",НТВ
-http://streamer.enchart.one/42/3ef10bd73a1c737d6dd54fbeba6a606a669f0965/647/stream.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал.png" is-favorite="1",Первый канал (+2)
-http://streamer.enchart.one/42/3ef10bd73a1c737d6dd54fbeba6a606a669f0965/40/stream.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1.png" is-favorite="1",Россия 1
-http://streamer.enchart.one/42/3ef10bd73a1c737d6dd54fbeba6a606a669f0965/2/stream.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" is-favorite="1",Мир 24
-http://streamer.enchart.one/42/3ef10bd73a1c737d6dd54fbeba6a606a669f0965/676/stream.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Сарафан.png" is-favorite="1",Саратов 24
-http://streamer.enchart.one/42/3ef10bd73a1c737d6dd54fbeba6a606a669f0965/586/stream.m3u8
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:3 group-title="Undefined" tvg-logo="../Channel/Logo/Первый канал.png" is-favorite="1",Первыйканал(+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:4 group-title="Undefined" tvg-logo="../Channel/Logo/Россия 24.png" is-favorite="1",Россия1HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=russia1
+#EXTINF:1 group-title="Undefined" tvg-logo="../Channel/Logo/Первый канал.png" is-favorite="1",Первыйканал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:2 group-title="Undefined" tvg-logo="../Channel/Logo/Первый канал.png" is-favorite="1",Первыйканал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:5 group-title="Undefined" tvg-logo="../Channel/Logo/Россия 1.png" is-favorite="1",Россия1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+#EXTINF:6 group-title="Undefined" tvg-logo="../Channel/Logo/Россия 1.png" is-favorite="1",Россия24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:10 group-title="Undefined" tvg-logo="../Channel/Logo/СТС Мир.png" is-favorite="1",Мир24HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:7 group-title="Undefined" tvg-logo="../Channel/Logo/НТВ.png" is-favorite="1",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:8 group-title="Undefined" tvg-logo="../Channel/Logo/РЕН ТВ.png" is-favorite="1",РЕНТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:9 group-title="Undefined" tvg-logo="../Channel/Logo/РЕН ТВ.png" is-favorite="1",РенТВHD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
