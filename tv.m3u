@@ -9,23 +9,15 @@ http://194.113.234.110:4002
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_4.m3u8
 #EXTINF:5 tvg-logo="../Channel/Logo/Россия 24.png",Россия HD
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:6 tvg-logo="../Channel/Logo/Россия 1 HD.png",РОССИЯ 1+2
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_2/variant.m3u8?version=2
-#EXTINF:7 tvg-logo="../Channel/Logo/Россия 1 HD.png",РОССИЯ 1+4
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_4/variant.m3u8?version=2
-#EXTINF:8 tvg-logo="../Channel/Logo/Россия 24.png",РОССИЯ-24
+#EXTINF:6 tvg-logo="../Channel/Logo/Россия 24.png",РОССИЯ-24
 http://194.113.234.110:4007
-#EXTINF:9 tvg-logo="../Channel/Logo/РЕН ТВ.png",РЕН ТВ
+#EXTINF:7 tvg-logo="../Channel/Logo/РЕН ТВ.png",РЕН ТВ
 http://194.113.234.110:4011
-#EXTINF:10 tvg-logo="../Channel/Logo/РЕН ТВ HD.png",РЕН ТВ +2
-https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8?version=2
-#EXTINF:11 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png",Рен ТВ International
+#EXTINF:8 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png",Рен ТВ International
 https://sc.id-tv.kz:443/RenTV_36_37.m3u8
-#EXTINF:12 tvg-logo="../Channel/Logo/НТВ.png",НТВ
+#EXTINF:9 tvg-logo="../Channel/Logo/НТВ.png",НТВ
 http://194.113.234.110:4004
-#EXTINF:13 tvg-logo="../Channel/Logo/НТВ HD.png",НТВ +2
-https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8?version=2
-#EXTINF:14 tvg-logo="../Channel/Logo/Звезда.png",ЗВЕЗДА HD
+#EXTINF:10 tvg-logo="../Channel/Logo/Звезда.png",ЗВЕЗДА HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:15 tvg-logo="../Channel/Logo/Звезда.png",Звезда
+#EXTINF:11 tvg-logo="../Channel/Logo/Звезда.png",Звезда
 http://194.113.234.110:4017
