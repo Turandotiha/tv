@@ -124,3 +124,91 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?|User-agent=HlsWi
 http://86.57.178.105:10823
 #EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Телепутешествия.png",СТВ
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия РТР
+https://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Первый канал HD.png",Первый канал HD
+https://1tv-live-gcore.gcdn.co/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/РБК.png",РБК
+https://online-video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Евроновости.png",Евроновости
+https://tv.tas-ix.tv/hls/token_24.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Мир 24.png",МИР 24
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Мамонтенок.png",ОНТ Беларусь
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Конный мир HD.png",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/2x2.png",2x2
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Наука.png",Наука 2.0
+http://194.113.234.110:4051
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Моя планета.png",Моя планета
+http://194.113.234.110:4050
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Звезда.png",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Звезда.png",Звезда Плюс
+http://194.113.234.110:4125
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/НСТ.png",НСТ
+http://194.113.234.110:4067
+#EXTINF:-1 group-title="каналы:",ТВ3 HD
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/ТНТ HD.png",ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/ТНТ4.png",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Ретро ТВ.png",Ретро
+http://194.113.234.110:4040
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Иллюзион+.png",Иллюзион +
+http://194.113.234.110:4032
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Киносвидание.png",КИНОСВИДАНИЕ
+https://tv.tas-ix.tv/hls/token_50.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Кинокомедия.png",КИНОКОМЕДИЯ
+http://46.174.83.66/Kinokomedia/index.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Кинокомедия.png",Комедийное HD
+http://myott.top/stream/P4H2M76YRH/74.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Родное кино.png",РОДНОЕ КИНО
+https://tv.tas-ix.tv/hls/token_46.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Кинохит.png",КИНОХИТ
+https://tv.tas-ix.tv/hls/token_48.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Киносемья.png",КИНОСЕМЬЯ
+http://194.113.234.110:4185
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Наше новое кино.png",НАШЕ НОВОЕ КИНО
+https://tv.tas-ix.tv/hls/token_45.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Дом кино.png",ДОМ КИНО
+https://pkvc-hls4.cdnvideo.ru/DK/smil:DK.smil/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Индийское кино.png",ИНДИЙСКОЕ КИНО
+http://46.174.83.66/Indiiskoe_kino/index.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Киномикс.png",КИНОМИКС
+http://193.233.9.49/streams/media/KINOMIKS/index.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Киносемья.png",Киносат
+http://he11o.akadatel.com/iptv/Q5VYRCFVFCDY66/2121/index.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Красная линия.png",Красная линия ТВ
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Наше любимое кино.png",Любимое кино
+http://193.233.9.49/streams/media/Lubimoe_kino/index.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Мужское кино.png",МУЖСКОЕ КИНО
+http://194.113.234.110:4189
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Остросюжетное.png",Остросюжетное HD
+http://myott.top/stream/P4H2M76YRH/214.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Победа_.png",Победа
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Русский роман.png",Русский Роман
+http://194.113.234.110:4052
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Русский бестселлер.png",Русский бестселлер
+http://194.113.234.110:4053
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Русский детектив.png",Русский детектив
+http://194.113.234.110:4061
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Русский иллюзион.png",Русский Иллюзион
+http://194.113.234.110:4031
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Cinema.png",CINEMA
+http://194.113.234.110:4063
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Новое Телевидение.png",ВидеокассетА
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Мульт.png",Мульт
+http://bsttv.bonus-tv.ru/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Сарафан.png",Сарафан
+http://194.113.234.110:4054
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/БелРос.png",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="каналы:" tvg-logo="../Channel/Logo/Евроновости.png",Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
